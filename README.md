@@ -6,7 +6,7 @@ Este proyecto consiste en una aplicación web interactiva construida con **Strea
 
 ## Funcionalidad
 
-La aplicación web permite a los usuarios realizar lo siguiente:
+La aplicación web permite al usuario realizar lo siguiente:
 
 1. **Visualización de un histograma**: Los usuarios pueden seleccionar un botón para generar un histograma interactivo que muestre la distribución de una variable específica del conjunto de datos.
    
