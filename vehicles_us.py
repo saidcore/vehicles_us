@@ -6,7 +6,7 @@ import plotly.express as px
 st.header("Análisis de Datos de Vehículos")
 
 # Cargar el archivo CSV en un DataFrame
-car_data = pd.read_csv('C:/Users/said2/Downloads/Repositorio/vehicles_us/vehicles_us.csv') # leer los datos
+car_data = pd.read_csv('vehicles_us.csv') # leer los datos
 
 # Mostrar los primeros registros del conjunto de datos
 st.write("Primeros registros del conjunto de datos:", car_data.head())
